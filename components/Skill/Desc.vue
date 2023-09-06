@@ -8,7 +8,7 @@ defineProps({
         <div
             class="p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-slate-400"
         >
-        🎑
+        🏖️
         </div>
         <h3 class="text-3xl mb-2 font-bold leading-normal">
             {{ raw_data.title }}
