@@ -8,7 +8,7 @@ const education_data = [
         year_start: "2019",
         year_end: "2023",
         desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit modi assumenda dignissimos odio facere explicabo tempore, fugiat aliquam, aspernatur officiis optio enim similique corrupti, debitis ab accusantium incidunt repellendus saepe?",
-        desc_list: ["Bachelor of Science in Sleeping Management 💤🤵", "Best in Sleeping 😪", "Most Behave 🎀"]
+        desc_list: ["Bachelor of Science in Sleeping Management 💤💆🏻‍♀️", "Best in Sleeping 😪", "Most Behave 🎀"]
     },
     {
         title: "🏢 Southern College",
@@ -25,7 +25,7 @@ const details_data = [
         year_start: "2017",
         year_end: "2019",
         desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit modi assumenda dignissimos odio facere explicabo tempore, fugiat aliquam, aspernatur officiis optio enim similique corrupti, debitis ab accusantium incidunt repellendus saepe?",
-        desc_list: ["Best in Carry 🗡🐱‍👤", "Best in Midlane ⚡🐼", "Best in Offline 🪓😡", "Best in Soft Support ✊🐹", "Best in Hard Support 🍢🦁"]
+        desc_list: ["Best in Carry 🗡🥷🏻", "Best in Midlane ⚡🐼", "Best in Offline 🪓😡", "Best in Soft Support ✊🐹", "Best in Hard Support 🪄🦁"]
     },
     {
         title: "🏓 Hobby & Interest",
@@ -48,7 +48,7 @@ const details_data = [
         year_start: null,
         year_end: null,
         desc: "",
-        desc_list: ["Bisaya 🍍", "Tagalog 🌄", "English ⛰", "French 🎨"]
+        desc_list: ["Bisaya 🍍", "Tagalog ⛪", "English 🦅", "French 🥐"]
     }
 ]
 </script>
