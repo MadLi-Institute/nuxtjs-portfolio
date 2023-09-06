@@ -26,7 +26,7 @@ defineProps({
                 </svg>
             </div>
             <div
-                class="block p-6 rounded-lg shadow-lg bg-gray-100 max-w-md ml-6 mb-10 w-full"
+                class="p-6 rounded-lg shadow-lg bg-gray-100 max-w-md ml-0 mb-10 w-full sm:ml-6"
             >
                 <div class="flex justify-between mb-4">
                     <p
